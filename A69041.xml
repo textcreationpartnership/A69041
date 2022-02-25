@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter, lately sent to an honourable person in England, from the campe before Graue, dated the 23. day of August last past Wherein is described the good successe both of her Maiesties forces and his Excellencies against the Admirant, with his going away from the Graue. Also a thanks-giuing for the victory God gaue his Princely Excellencie, in the ouercomming and taking the said citie Graue, the 20. of September, stilo nouo. 1602. Truely translated out of the Dutch copie.</title>
+            <author>W. C., fl. 1602.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1602</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69041</idno>
+            <idno type="STC">STC 4317</idno>
+            <idno type="STC">ESTC S107116</idno>
+            <idno type="EEBO-CITATION">99842818</idno>
+            <idno type="PROQUEST">99842818</idno>
+            <idno type="VID">7510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 7510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1129:26, 1238:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter, lately sent to an honourable person in England, from the campe before Graue, dated the 23. day of August last past Wherein is described the good successe both of her Maiesties forces and his Excellencies against the Admirant, with his going away from the Graue. Also a thanks-giuing for the victory God gaue his Princely Excellencie, in the ouercomming and taking the said citie Graue, the 20. of September, stilo nouo. 1602. Truely translated out of the Dutch copie.</title>
+                  <author>W. C., fl. 1602.</author>
+               </titleStmt>
+               <extent>[2], 5, [1], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Simon Stafford, dwelling in Hosier lane neere Smith-field,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1602.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter signed: VV.C.</note>
+                  <note>"A thankes-giuing for the victorie God gaue his princely Excellencie, in the ouercomming and taking the citie Graue, the twentieth of September. 1602" has separate pagination; register is continuous.</note>
+                  <note>Identified as STC 12195 on UMI microfilm reel 1238.</note>
+                  <note>Reproductions of the original in the Bodleian Library.</note>
+                  <note>Appears at reel 1129 and at reel 1238 (same copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1616-1648 --  Early works to 1800.</term>
+               <term>Grave (Netherlands) --  History --  Siege, 1602 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:7510:1"/>
+            <!-- PDF PAGE 33 -->
+            <pb facs="tcp:7510:1"/>
+            <!-- PDF PAGE 33 -->
+            <p>THE COPIE of a Letter, lately ſent to an Honourable per<g ref="char:EOLhyphen"/>ſon in England, from the Campe <hi>before Graue, dated the</hi> 23. <hi>day of Auguſt laſt paſt.</hi>
+            </p>
+            <p>Wherein is deſcribed the good ſucceſſe both <hi>of her Maieſties forces and his Excellencies</hi> a<g ref="char:EOLhyphen"/>gainſt the Admirant, with his going away from the Graue.</p>
+            <p>Alſo a Thanks-giuing for the vic<g ref="char:EOLhyphen"/>tory God gaue his Princely Excellencie, in <hi>the ouercomming and taking the ſaid Citie</hi> Graue, the 20. of September, <hi>ſtile noue.</hi> 1602.</p>
+            <p>
+               <hi>Truely tranſlated out of the Dutch Copie.</hi>
+            </p>
+            <p>Imprinted at London by Simon Stafford, dwelling in Hoſier lane neere Smith-field. 1602.</p>
+         </div>
+      </front>
+      <body>
+         <div type="copy_of_letter">
+            <pb facs="tcp:7510:2"/>
+            <!-- PDF PAGE 34 -->
+            <pb facs="tcp:7510:2"/>
+            <!-- PDF PAGE 34 -->
+            <head>THE COPIE OF A LETTER, LATELY SENT to an Honourable perſon in England, from the Campe before <hi>Graue,</hi> dated the 23. day of Auguſt laſt paſt: Wherein is deſcribed the good ſuc<g ref="char:EOLhyphen"/>ceſſe both of her Maieſties forces, and his Excellencies, againſt the Admirant: with his going away from the ſaid Citie of <hi>Graue,</hi> before it was taken by his Excel<g ref="char:EOLhyphen"/>lencie.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Honorable, my louing and dutifull ſeruice remembred vnto your good Honour, it hath beene thus with vs, that I could not ſend ſo often vnto your Honour, as I would, in that the enemie lay ſo neere vnto his Excellencies Quarter, that my Cap<g ref="char:EOLhyphen"/>taine was commaunded to take foure more Engliſh companies, and to goe and lye with them three Engliſh miles from the Quarter neere vnto the Enemie, to gard on the North<g ref="char:EOLhyphen"/>ſide the Riuer Maze, to defend the comming
+<pb n="2" facs="tcp:7510:3"/>
+               <!-- PDF PAGE 35 -->of them ouer the Bridge to his Excellencies quarter, and for that they ſhould not releeue the Towne on that ſide. Thus continuing foure dayes together in defending theſe paſ<g ref="char:EOLhyphen"/>ſages, wee could neither haue paper, nor leyſure to write, which maketh me write ſo much vnto your Honour at this time toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>The enemie in <hi>Graue</hi> fell out, at three ſeue<g ref="char:EOLhyphen"/>rall times vpon the three Quarters. Firſt, vp<g ref="char:EOLhyphen"/>on his Excellencies: The ſecond vpon <hi>Graue Williams:</hi> The third time vpon my Lords Honours, and were well beaten in, with loſſe of ſome men, where Captayne <hi>Kayes,</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Harcourt,</hi> and his Lieutenant <hi>Michell</hi> were then there ſlayne.</p>
+            <p>The enemie and we lying ſo neere one to the other, keepeth great watch: many nights the enemie hath made ſignes to the Towne to come on and releeue it, but did not.</p>
+            <p>His Excellencie hath made his approch on the Eaſt-ſide, cloſe to the Towne mote: Count <hi>William</hi> on the South-ſide the like: and hath planted by them ſixe peeces of ordinance, plan<g ref="char:EOLhyphen"/>ting them ſeuerally by two and two in a place, ſome of them beating at the Rampiers and bullwarkes, the other playing into the Towne.</p>
+            <p>My Lord with his approches, is cloſe to the
+<pb n="3" facs="tcp:7510:3"/>
+               <!-- PDF PAGE 35 -->Mote on the Weſt-ſide the Towne, he hauing one Cannon there planted, that beates into the Towne: and my Lord is ſo neere, that he may enter it, aſſoone as his Excellencie or count <hi>William.</hi>
+            </p>
+            <p>The one &amp; twentie day, at three of the clocke in the morning, the Admirant with his Field Fortes, came to enter the Trenches betweene his Excellencie and Count <hi>Williams</hi> his quar<g ref="char:EOLhyphen"/>ter: our Scoutes and Spies diſkenning their comming on (we being alwayes readie and watchfull) drue our men into diuiſion, and ſo into battell, Horſe and Foote. Then we being readie for their comming on (the enemie being come vp to our Trenches, and being darke) we fired our Bracons from one of our Quar<g ref="char:EOLhyphen"/>ters to the other: and they thereby ſeeing vs in ſuch readines within our Trenches, pre<g ref="char:EOLhyphen"/>ſently fell off executing, running away, ſea<g ref="char:EOLhyphen"/>uing all ſuch prouiſion they had brought thi<g ref="char:EOLhyphen"/>ther for their paſſage to haue releeued the <hi>Graue:</hi> which were Ladders, Plankes, Mat<g ref="char:EOLhyphen"/>tockes, Spades, Shouels and other Engins to haue entred the Trenches, and then the reſt of the Armie ſhould haue come on, when firſt way had been made, which (God be thanked) was not.</p>
+            <p>So ſome ſixe or ſeuen troopes of Horſe fell out after them, put ſome to the ſword, and
+<pb n="4" facs="tcp:7510:4"/>
+               <!-- PDF PAGE 36 -->tooke two Italian Horſe-men, whom they brought after to his Excellencie: And about three or foure dayes before their comming on, there would come ouer to his Excellencie twentie Italians and other the Admirants Souldiers at a time: The reaſon of their comming away was coniectured to be thus: That the ground was wet they lay in, want of money, ſcant of victuall and other things: For in truth, all things were very extreame deare to them, whereupon they grewe weake.</p>
+            <p>My good Lord the two and twentieth day betimes in the morning went to his Trenches neere the Towne, and a ſmall ſhot came from the enemie, and ſhot him in vnder the eye, be<g ref="char:EOLhyphen"/>tweene the noſe and the ball of the cheeke, which bullet reſteth, as Surgeons &amp; Phiſiti<g ref="char:EOLhyphen"/>ons take it, neere vnto the pallet of his mouth, and as yet not to be gotten out: yet by Gods helpe, no daunger, becauſe it is cureable.</p>
+            <p>Captaine <hi>Morgan</hi> hurt, being ſhot in the legge, and his horſe kild vnder him at the Towne wall: Captaine <hi>Cooke</hi> hurt about the head and necke: Captaine <hi>Merekerk,</hi> Seriant Maior, ſhot thorow the ſhoulder, downe the backe, in the Trenches: and other Souldiers too long to name.</p>
+            <p>The enemie the two &amp; twentieth at night, ſet his cabbins on fire on both ſides the Riuer,
+<pb n="5" facs="tcp:7510:4"/>
+               <!-- PDF PAGE 36 -->and tooke vp his bridge, and marched away before day.</p>
+            <p>Some foure or fiue thouſand Horſe and Foote of ours marched to his Quarter at day, finding him to be gone, and had taken all away. So our men firing the reſt, returned.</p>
+            <p>He is marched, as is thought, toward <hi>Venlo</hi> his friend Towne. Thus my humble dutie remembred, I humbly take my leaue. From Aradout, this <hi>23.</hi> of Auguſt, <hi>ſtilo nouo. 1602.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Honours euer to commaund to his power or ſeruice, <hi>W. C.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="thanksgiving">
+            <pb facs="tcp:7510:5"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:7510:5"/>
+            <!-- PDF PAGE 37 -->
+            <head>
+               <g ref="char:leaf">❧</g> A Thankes-giuing for the victorie God gaue his princely Excellen<g ref="char:EOLhyphen"/>cie, <hi>in the ouercomming and taking</hi> the Citie Graue<g ref="char:punc">▪</g> the twentieth of September. 1602.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He time is come, wherein wee ought to prayſe God, who beſtoweth on vs from aboue his good bleſſings: he hath remooued the ene<g ref="char:EOLhyphen"/>mies danger from vs, and diſmayd them that were moſt haughtie. Behold the <hi>Naſſawes</hi> bloud, which through Gods grace, at this time brings them downe powerfully, who offe<g ref="char:EOLhyphen"/>reth vs his mightie helpe, and driueth a<g ref="char:EOLhyphen"/>way ſodaynely our prowde enemie, like <hi>Siſera.</hi>
+            </p>
+            <p>Our God hath diſperſt the enemies force, which they had relying vpon their Kings might, wealth, and treaſure: but thoſe
+<pb n="2" facs="tcp:7510:6"/>
+               <!-- PDF PAGE 38 -->that truſt in God, haue now by the <hi>Naſſawes,</hi> ouerthrowne their courage.</p>
+            <p>See their Kings power and pride, which he hath vſed thus long in theſe <hi>Netherlands,</hi> euen with robbings, burnings, and mur<g ref="char:EOLhyphen"/>thers; but helpe thou vs, O God, from his oppreſſion, who doeth theſe things to his owne ſhame.</p>
+            <p>Obſerue the Regent, a Lady full of wic<g ref="char:EOLhyphen"/>kedneſſe, together with Duke <hi>Alvie,</hi> the great Commaunder, acknowledge <hi>Don Iohn,</hi> who came in ſhew of peace, but ſought indeede, to carrie away the <hi>Netherlands</hi> treaſure, and <hi>Parma,</hi> who through diſdayne was much tor<g ref="char:EOLhyphen"/>mented: <hi>Erneſtus</hi> his fiery courage, and <hi>Al<g ref="char:EOLhyphen"/>bertus</hi> his gift heere; but God hath almoſt diſ<g ref="char:EOLhyphen"/>couered his deceyt.</p>
+            <p>Riſe vp alſo, O you oppreſſed neighbours, Alas! the Netherlanders bloud hath proued ſufficiently the Spaniſh trickes: how long yet ſhall their heauie crueltie indure, and be lamented? Abide not them, pray God in your miſerie, that he will ſtill helpe our Prince to warre, to make vs at peace together, and with ſpeed to bring vs quite in ſafetie from the cruel Spaniards thraldome.</p>
+            <p>What? bee not diſmayde, truſt vpon Al<g ref="char:EOLhyphen"/>mightie God, whoſe powerfull goodnes he hath notably ſhewed at <hi>Turnout,</hi> and alſo re<g ref="char:EOLhyphen"/>member
+<pb n="3" facs="tcp:7510:6"/>
+               <!-- PDF PAGE 38 -->how proudly they came by <hi>Niew<g ref="char:EOLhyphen"/>port,</hi> where they were ſlaine: There they had prepared for vs their Spaniſh poyſon, and ſworne, they would quite tread vnder foote that valiant couragious houſe of <hi>Naſſaw;</hi> but euen then when they were about to do it, God did ouerthrow them.</p>
+            <p>Thinke not, that victorie comes at any time, by the multitude and ſtrength of an army, horſe or foote, but onely of Gods bleſ<g ref="char:EOLhyphen"/>ſing: For we can ſhew, that God hath ſet himſelfe with vs to hold vs vp, and hath giuen vnto them of <hi>Naſſaw,</hi> pure wiſedome and knowledge, for the comfort of Gods Church, and their countries defence, which they doe diligently put in practiſe: wherefore, let vs all with one accord praiſe our God.</p>
+            <p>Marke now well, you raſh inconſtant ſort, which thinke you winne; ſet vp your preſent power, as if you cride with ſpeede, <hi>Mauris</hi> can attempt nothing, he flies; where are they? now wee ſhall ſurely get <hi>Oſtend:</hi> But you haue turned and fled your ſelues, and with reprochfull ſhame haue forſaken the Citie <hi>Graue,</hi> which our Prince hath taken, and yet our valiant Souldiers keepe <hi>Oſtend</hi> ſtill.</p>
+            <p>You came with great Armies, power and diligence, to relieue the ſtrong towne of
+<pb n="4" facs="tcp:7510:7"/>
+               <!-- PDF PAGE 39 -->
+               <hi>Graue;</hi> but you came too late, for that one Princes <hi>Excellencie</hi> had before ſufficiently entrencht himſelfe: The like was alſo done before <hi>Berck.</hi> With grauing works, our <hi>Graue</hi> had ſhut the <hi>Graue,</hi> and ſo with ſhame are you retired. Now you goe to mutinie, and with ſpeed cruelly to ſpoyle towne and countrey; for ſuch are your Spaniſh exploites.</p>
+            <p>See here, how ſoone the Spaniſh pride is, by Gods mercy, and the <hi>Naſſawes</hi> valour, brought to ſhame, alſo how God hath deſtroy<g ref="char:EOLhyphen"/>ed the rebellious <hi>Admirant,</hi> who greatly ſpoy<g ref="char:EOLhyphen"/>led and hurt the Dutchie of <hi>Cleue.</hi> Keepe this well yeerely, monthly and dayly in minde, earneſtly thanke God, and giue him the glorie, who giueth our valiant Prince victorie: keepe this, I ſay, ſtill in memorie, and giue God the praiſe for euer.</p>
+            <p>O Prince of rulers, preſerue our Prince, and the aboue-named noble <hi>Naſſawes</hi> bloud, defend the Citie <hi>Oſtend</hi> from reproch, from flouds, tempeſts, ſtormes and winde, make all our neighbours our faithfull friends, deli<g ref="char:EOLhyphen"/>uer vs, O Lord, from miſerie, and giue not on<g ref="char:EOLhyphen"/>ly peace in our dayes, but alſo heare our lamen<g ref="char:EOLhyphen"/>tations; for ſurely it will, O Lord, great<g ref="char:EOLhyphen"/>ly extoll thy name.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="envoy">
+            <pb facs="tcp:7510:7"/>
+            <!-- PDF PAGE 39 -->
+            <l>TAke heede, gallant weſterne Lords and Princes,</l>
+            <l>Stay not benumb'd, take heart to your ſences,</l>
+            <l>Foreſee where you their proiects may downe tread,</l>
+            <l>Driue hence away, the foode of tyrants bread.</l>
+            <trailer>Thinke vpon this euer.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
